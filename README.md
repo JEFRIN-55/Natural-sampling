@@ -4,7 +4,7 @@
 To perform natural sampling on a continuous signal and analyze its reconstruction.  
 
 ## Tools Required  
-- Python  
+- Python (colab)
 - NumPy  
 - Matplotlib  
 - SciPy  
